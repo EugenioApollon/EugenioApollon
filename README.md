@@ -2,8 +2,9 @@
 
 ### Olá! Seja bem vindo ao meu Github!
 
-Meu nome é David e sou apenas um estudante de Engenharia de Software. 😄
+Meu nome é David e sou apenas um estudante de Engenharia de Software, apaixonado por tecnologia e inovações através de desenvolvimento de softwares. Atualmente focado em projetos pessoais para agregar em meu portifólio.😄
 
+### Até breve pessoal!!
 <div>
   <a href="https://github.com/EugenioApollon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EugenioApollon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
