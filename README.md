@@ -35,7 +35,7 @@ Meu nome é David e sou apenas um estudante de Engenharia de Software. 😄
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-eugenio-softwareengineer/"/></a>
 
   <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997620637&text=Ol%C3%A1%2C%20obrigado%20por%20entrar%20em%20contato.%F0%9F%98%81%20"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997620637&text=Ol%C3%A1!%20Obrigado%20por%20entrar%20em%20contato,%20em%20breve%20irei%20responde-lo."/></a>
 
   <a href="#" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/david.eugenio.10420"/></a>
