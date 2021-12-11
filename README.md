@@ -2,7 +2,7 @@
 
 ### Olá! Seja bem vindo ao meu Github!
 
-Meu nome é David e sou apenas um estudante de Engenharia de Software, apaixonado por tecnologia e inovações através de desenvolvimento de softwares. Atualmente focado em projetos pessoais para agregar em meu portifólio.😄
+Meu nome é David e sou um estudante de Engenharia de Software, apaixonado por tecnologia e inovações através de desenvolvimento de softwares. Atualmente focado em projetos pessoais para agregar em meu portifólio.😄
 
 ### Até breve pessoal!!
 <div>
