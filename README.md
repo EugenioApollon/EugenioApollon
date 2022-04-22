@@ -8,6 +8,8 @@ Meu nome é David e sou um estudante de Engenharia de Software, apaixonado por t
 <div>
   <a href="https://github.com/EugenioApollon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EugenioApollon&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    
+    https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
   
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
